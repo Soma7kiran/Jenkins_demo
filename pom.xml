@@ -35,7 +35,7 @@
 						<username>soma_kiran1</username>
 						<password>@Narikds1</password>
 						<environment>Sandbox</environment>
-						<applicationName>jenkins-demo</applicationName>
+						<applicationName>jenkins-demo7</applicationName>
 						<muleVersion>4.3.0</muleVersion>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
